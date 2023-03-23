@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MPN"]
+	path = MPN
+	url = https://github.com/cran/MPN
+	shallow = true
+	registered = true
+[submodule "openEBGM"]
+	path = openEBGM
+	url = https://github.com/cran/openEBGM
+	shallow = true
+	registered = true
